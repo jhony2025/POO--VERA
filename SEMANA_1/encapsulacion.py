@@ -10,4 +10,5 @@ class CuentaBancaria:  #Creamos la clase
 
 mi_cuenta = CuentaBancaria(1000)
 mi_cuenta.depositar(500)
-print(mi_cuenta.obtener_saldo())
+print(mi_cuenta.obtener_saldo()) #Imprimimos
+
